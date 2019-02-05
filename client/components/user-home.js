@@ -25,7 +25,7 @@ class UserHome extends Component {
 					{/* <Header floated="right" as="h4">
 						Total Snapshots: {this.props.Emotions.length}
 					</Header> */}
-					<Header as="h2">Your Web Snapshot</Header>
+					<Header as="h2">Your Snapshot</Header>
 
 					<Divider horizontal />
 					<Statistic floated="right">
